@@ -1,2 +1,2 @@
-# TechDegreeRepo
+# Tech Degree Repository
 Course practice
